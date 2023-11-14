@@ -3,10 +3,7 @@ tags:
   - Code/Cpp
 ---
 
-Thư viện
-```cpp
-<sstream>
-```
+
 ### Tổng quan
 Cho phép chuyển đổi các kiểu dữ liệu khác nhau và chuỗi.
 1. Tách chuỗi
